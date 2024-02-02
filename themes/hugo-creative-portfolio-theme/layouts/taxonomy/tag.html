@@ -1,0 +1,16 @@
+  <!DOCTYPE html>
+  <html>
+  <head>
+  <title>Tag</title>
+  </head>
+  <body>
+    <ul>
+        {{ range .Data.Pages }}
+        <li>
+          <a href="{{.RelPermalink}}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+  
+  </body>
+  </html>   
