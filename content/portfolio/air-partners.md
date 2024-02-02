@@ -2,7 +2,7 @@
 date = "2022-05-20T19:41:01+05:30"
 title = "Community-Owned Air Justice - Air Partners"
 draft = false
-image = "/img/portfolio/Air Partners/roxbury breathe life.png"
+image = "/img/portfolio/Air Partners/Breathe Life.png"
 showonlyimage = false
 weight = 1
 # tags = ['please', 'hi']
