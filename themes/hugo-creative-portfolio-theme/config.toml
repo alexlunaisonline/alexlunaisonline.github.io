@@ -1,4 +1,4 @@
-baseurl = "https://alexlunaisonline.github.io/desktop-tutorial/"
+baseurl = "https://alexlunaisonline.github.io/"
 title = "Alex Luna's Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
